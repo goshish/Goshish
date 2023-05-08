@@ -2,7 +2,7 @@
 
 </div>  
   
-### <div align="center">Hey!👋 My name is George</div>  
+# <div align="center">Hey!👋 My name is George</div>  
   
 
 - 🔭 I’m currently working on [TaskHub](https://github.com/Goshish/TaskHub)  
