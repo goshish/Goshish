@@ -1,7 +1,5 @@
 <div align="center">
-
 </div>  
-  
 # <div align="center">Hey!👋 My name is George</div>  
   
 
