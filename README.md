@@ -3,8 +3,6 @@
 
 # <div align="center">Hey!👋 My name is George</div>  
   
-
-- 🔭 I’m currently working on [TaskHub](https://github.com/Goshish/TaskHub)  
   
 
 - 🌱 I’m currently learning RestAPI and Django at an advanced level  
