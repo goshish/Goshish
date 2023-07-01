@@ -11,7 +11,7 @@
 - 😏 Future senior   
   
 
--  🧐 Looking for my first job   
+-  🧐 Looking for a job 
   
 
 <br/>  
